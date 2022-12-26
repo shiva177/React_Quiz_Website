@@ -10,17 +10,17 @@
 ** https://github.com/shiva177/React_Quiz_Website**
 
 * Install
-``
-npm install
-``
+
+"npm install"
+
 
 * Run
 
-"npm start"
+ "npm start"
 
 
 * Testing on browser
 
-"htpp://localhost:8080"
+ "htpp://localhost:8080"
 
 
